@@ -1,0 +1,41 @@
+.card {
+    width: auto;
+    border: hsla(309, 46%, 30%, 0.688);
+    border-radius: 5em;
+    border-style: ridge;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    padding-bottom: 7em;
+    padding-top: 5em;
+    background-color:beige;
+    text-shadow: 1em;
+    color:rgb(31, 40, 27);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 5px;
+    padding-left: 4em;
+    padding-right: 4em;
+  }
+
+  .calc-button {
+    font-style: bold;
+    font-size: x-large;
+    font-family: 'Courier New', Courier, monospaces;
+    box-shadow: 2em;
+    border-radius: 1em;
+    outline-color: black;
+    background-color: darkgray;
+    color: antiquewhite;
+    padding: 2em;
+    margin: 20px;
+  }
+
+  .number-input {
+    width: auto;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    background-color: rgb(254, 200, 205);
+    margin: 2em;
+    border-radius: 1em;
+  }
